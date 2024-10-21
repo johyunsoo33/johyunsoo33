@@ -8,7 +8,7 @@
 ![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)
 ![로고명](https://img.shields.io/badge/Android%20Studiod-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![로고명](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)<br>
-
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33)]
 <b>개발자로 성공하고싶다</b>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=johyunsoo33)](https://solved.ac/johyunsoo33/)
