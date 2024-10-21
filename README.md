@@ -8,7 +8,7 @@
 ![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)
 ![로고명](https://img.shields.io/badge/Android%20Studiod-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![로고명](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33)](https://github.com/johyunsoo33/github-readme-stats)
 
 <b>개발자로 성공하고싶다</b>
 
