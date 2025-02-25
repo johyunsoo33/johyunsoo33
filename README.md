@@ -8,7 +8,7 @@
 ![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)
 ![로고명](https://img.shields.io/badge/Android%20Studiod-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![로고명](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johyunsoo33&repo=github-readme-stats)](api/pin?username=anuraghazra&repo=github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johyunsoo33&repo=github-readme-stats)](api/pin?username=johyunsoo33&repo=github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johyunsoo33)](https://github.com/johyunsoo33/github-readme-stats)
 
 <b>개발자로 성공하고싶다</b>
