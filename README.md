@@ -9,8 +9,7 @@
 ![로고명](https://img.shields.io/badge/Android%20Studiod-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![로고명](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johyunsoo33&repo=learn-html-css)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/johyunsoo33/learn-html-css))
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johyunsoo33)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=johyunsoo33&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="hyunsoo res" />
 <b>개발자로 성공하고싶다</b>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=johyunsoo33)](https://solved.ac/johyunsoo33/)
