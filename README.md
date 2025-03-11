@@ -1,17 +1,28 @@
-<div align=center background-color:black width:1000px>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Hello!&fontSize=90)<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohyunsoo33%2FJHS&count_bg=%2379C83D&title_bg=%23555555&icon=ifood.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%ED%9A%9F%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com) <br>
-![로고명](https://img.shields.io/badge/JAVA%20SCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![로고명](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![로고명](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=#1572B6)
-![로고명](https://img.shields.io/badge/ECLIPSE%20IDE-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=#2C2255)
-![로고명](https://img.shields.io/badge/Android%20Studiod-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
-![로고명](https://img.shields.io/badge/Unity-black.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)<br>
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33&layout=compact&theme=nord&hide_border=true" />
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=johyunsoo33&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="hyunsoo res" />
-
-<b>개발자로 성공하고싶다</b>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=johyunsoo33)](https://solved.ac/johyunsoo33/)
-</div>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=JHS%20CODE%20HUB&animation=blink&fontColor=000000&fontSize=70" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 저는 굴러가는 개발자 입니다 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 저는 굴렁쇠처럼 둥글게 생각을 하기 위한 노력할 하는 개발자 입니다.</li></li><li> 때론 미숙한 부분이 보이지만 수정과 발전을 위해 노력중입니다.</li></li> </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link="> </a>
+          </div>  <br> 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohyunsoo33%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=johyunsoo33&custom_title=johyunsoo33's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+    
