@@ -21,10 +21,9 @@
     </div>
     <div align= "center"> 
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=johyunsoo33&bg_color=60,dfffb8,eefe16&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33&layout=compact&bg_color=60,dfffb8,eefe16&title_color=000000&text_color=000000"
-           /> 
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=johyunsoo33)](https://solved.ac/johyunsoo33)
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=johyunsoo33&bg_color=60,dfffb8,eefe16&title_color=000000&text_color=000000"/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33&layout=compact&bg_color=60,dfffb8,eefe16&title_color=000000&text_color=000000"/> 
+    <div>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=johyunsoo33)](https://solved.ac/johyunsoo33)</div> 
     </div> 
     </div>
     
