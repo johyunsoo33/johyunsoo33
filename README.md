@@ -17,16 +17,22 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://velog.io/@johyunsoo33/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@johyunsoo33/posts"> </a>
-         <a href=mailto:aorzkfflqj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aorzkfflqj@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=johyunsoo33&bg_color=60,f8ff94,feffd6&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33&layout=compact&bg_color=60,f8ff94,feffd6&title_color=000000&text_color=000000"
-           /> </div> 
-
+        <a href=https://velog.io/@johyunsoo33/posts> 
+            <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@johyunsoo33/posts"> 
+        </a>
+         <a href=mailto:aorzkfflqj@gmail.com> 
+             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aorzkfflqj@gmail.com">
+         </a>
+          </div> 
+        <br> 
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <div align= "center"> 
+            <p><img src="https://github-readme-stats.vercel.app/api?username=johyunsoo33&bg_color=60,f8ff94,feffd6&title_color=000000&text_color=000000"/></p>
+            <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johyunsoo33&layout=compact&bg_color=60,f8ff94,feffd6&title_color=000000&text_color=000000"/> </p>
+        </div> 
+    <div><img src="http://mazassumnida.wtf/api/generate_badge?boj=johyunsoo33"></img> </div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=johyunsoo33&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/johyunsoo33"
